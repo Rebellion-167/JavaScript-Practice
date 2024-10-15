@@ -1,4 +1,4 @@
-This repository contains JavaScript Problems related to concepts of Debouncing and Throttling.
+<h3>This repository contains JavaScript Problems related to concepts of Debouncing and Throttling.</h3>
 <br>
 Author - Barnik Chakraborty.
 <br>
